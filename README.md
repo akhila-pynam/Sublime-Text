@@ -1,6 +1,6 @@
 # Sublime-Text
 
-# Sublime Text 4 , Competitive Programming Setup
+# ST Competitive Programming Setup In C++
 
 ⚫  Copy the Path In Environment variables → C:\Program Files\MinGW\bin
 
